@@ -2,7 +2,7 @@
 include("connection.php");
 ?>
 
-<a href="add_data.php">Tambah hari libur</a>
+<a href="add_data.php">Tambah hari libur di sini</a>
 
 <form action="action.php" method="post">
     <div>
