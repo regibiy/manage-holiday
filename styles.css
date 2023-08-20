@@ -17,3 +17,8 @@
   text-decoration: none;
   color: black;
 }
+
+.btn > a:hover {
+  background-color: blue;
+  color: white;
+}
