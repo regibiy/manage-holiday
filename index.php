@@ -1,9 +1,10 @@
 <?php
 include("connection.php");
+//add page validation here
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 
 <head>
     <meta charset="UTF-8">
